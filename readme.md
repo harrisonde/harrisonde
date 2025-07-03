@@ -61,7 +61,7 @@
 ## :computer: Open Source:
 Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tangible impact:
 
-- Me
+- Personal
     - [Linux Foundation Cloud Events PHP SDK](https://github.com/cloudevents/sdk-php)
 - Cidekar
     - [Browser Email Share](https://github.com/Cidekar/browser-email-share)
@@ -69,7 +69,7 @@ Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tang
     - [Laravel Tenant Magic](https://github.com/Cidekar/laravel-tenantmagic)
     - [Window Rivet](https://github.com/Cidekar/window-rivet)
 
-## :incoming_envelope: How to get intouch with me:
+## :incoming_envelope: How to get in touch with me:
 <p>Please feel free to contact me at the :e-mail: in my Github profile.</p>
 
 ## :zap: Resoureces used to build this profile README:
