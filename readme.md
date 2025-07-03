@@ -73,7 +73,7 @@ Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tang
 - Please feel free to contact me at the :e-mail: in my Github profile.
 - Message me on [Linkedin](https://www.linkedin.com/in/harrisondestefano).
 
-## :zap: Resoureces used to build this profile README:
+## :zap: Resources used to build this profile README:
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 - [shields.io](https://shields.io)
