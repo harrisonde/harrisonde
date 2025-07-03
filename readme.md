@@ -45,7 +45,8 @@
 </p>
 
 ### Lately, I've been working on:
+
 <p>
-![](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
+    ![Statistics](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
+    ![Language](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
 </p>
