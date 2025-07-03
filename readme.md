@@ -3,7 +3,7 @@
 <p>I'm Harrison, a results driven Full Stack Developer with over 15 years of experience in software development. I enjoy managing complex projects through innovative thinking. I always focus on delivering high-quality solutions while supporting all phases of the software development life cycle. If you're passion is source code, like mine, let's build something together!</p>
 
 
-## My favorite frameworks, technologies and tools I use to deliver solutions:
+## My goto frameworks, technologies and tools I use to deliver solutions:
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-096bda?style=flat-square&logo=linux&logoColor=white" />
     <img alt="Apple" src="https://img.shields.io/badge/-MacOS-096bda?style=flat-square&logo=apple&logoColor=white" />
@@ -42,4 +42,10 @@
     <img alt="NPM" src="https://img.shields.io/badge/NPM-096bda?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Packagist" src="https://img.shields.io/badge/Packagist-096bda?style=flat-square&logo=packagist&logoColor=white" />
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-096bda?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
+
+### Lately, I've been working on:
+<p>
+![](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
 </p>
