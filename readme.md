@@ -59,7 +59,7 @@
 ![Language](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/languages.svg) ![Statistics](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
 
 ## :computer: Open Source:
-Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tangible impact:
+Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tangible impact.
 
 - Personal
     - [Linux Foundation Cloud Events PHP SDK](https://github.com/cloudevents/sdk-php)
@@ -70,9 +70,11 @@ Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tang
     - [Window Rivet](https://github.com/Cidekar/window-rivet)
 
 ## :incoming_envelope: How to get in touch with me:
-<p>Please feel free to contact me at the :e-mail: in my Github profile.</p>
+- Please feel free to contact me at the :e-mail: in my Github profile.
+- Message me on [Linkedin](https://www.linkedin.com/in/harrisondestefano)
 
 ## :zap: Resoureces used to build this profile README:
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 - [shields.io](https://shields.io)
+- [Simple Icons](https://simpleicons.org/)
