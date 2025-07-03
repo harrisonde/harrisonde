@@ -1,9 +1,9 @@
-# <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/4164072/461699300-b712d55d-a529-4529-98d1-a09ce92d1e11.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250702T200901Z&X-Amz-Expires=300&X-Amz-Signature=a0dc45332d3c7b009284437f6630289bdcf27f5ff9231735e5a800653b0ae0de&X-Amz-SignedHeaders=host" width="40px" height="40px" /> Hey, folks!
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/4164072/461699300-b712d55d-a529-4529-98d1-a09ce92d1e11.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250702T200901Z&X-Amz-Expires=300&X-Amz-Signature=a0dc45332d3c7b009284437f6630289bdcf27f5ff9231735e5a800653b0ae0de&X-Amz-SignedHeaders=host" width="40px" height="40px" /> Hey, there!
 
-<p>I'm Harrison, a results driven Full Stack Developer with over 15 years of experience in software development. I enjoy managing complex projects through innovative thinking. I always focus on delivering high-quality solutions while supporting all phases of the software development life cycle. If you're passion is source code, like mine, let's build something together!</p>
+<p>I'm Harrison, a results driven Full Stack Developer with over 15 years of experience in software development. I enjoy managing complex projects through innovative thinking. I always focus on delivering high-quality solutions while supporting all phases of the software development life cycle. If you're passionate about source code, like me, let's build something awesome together!</p>
 
 
-## My goto frameworks, technologies and tools I use to deliver solutions:
+## :pencil2: Goto frameworks, technologies, and tools I use to deliver solutions:
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-096bda?style=flat-square&logo=linux&logoColor=white" />
     <img alt="Apple" src="https://img.shields.io/badge/-MacOS-096bda?style=flat-square&logo=apple&logoColor=white" />
@@ -43,8 +43,19 @@
     <img alt="Packagist" src="https://img.shields.io/badge/Packagist-096bda?style=flat-square&logo=packagist&logoColor=white" />
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-096bda?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
+:date:
+## :hammer: What I'm working on:
 
-### Lately, I've been working on:
+![Language](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/languages.svg) ![Statistics](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
 
+- I'm currently:
+```yaml
+- Building on a Redis dashboard for Adels's worker queue in React
+- Developmeing Adele, a web application framework written in Go that provides a MVC architectural pattern for building web applications – features include authentication, CLI, routing, sessions, caching, templating, and first-class OAuth 2.0 authorization server.
+```
+- Soon I plan to:
+    - Build a typeahead with React
+    - Port the [XKCD Password Generator](https://github.com/harrisonde/xkcd-password-generator) to Go
 
-![Statistics](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg) ![Language](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/languages.svg)
+## How to get intouch with me:
+<p>Please feel free to contact me at the email in my Github profile.</p>
