@@ -76,5 +76,5 @@ Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tang
 ## :zap: Resources used to build this profile README:
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-- [shields.io](https://shields.io)
+- [Shields.io](https://shields.io)
 - [Simple Icons](https://simpleicons.org/)
