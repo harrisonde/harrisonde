@@ -45,13 +45,13 @@
 </p>
 
 ## :hammer: I'm working on:
-- Currently building:
+- Currently building
 ```yaml
 - My own framework: Adele. It is a web application framework written in Go that provides a MVC architectural pattern for building web applications.
 - A dashboard for Adele's queue system: using Go, Redis, and React.
 
 ```
-- Soon I'll be building:
+- Soon I'll be building
     - React component: typeahead & autocomplete
     - [XKCD Password Generator](https://github.com/harrisonde/xkcd-password-generator) in Go
 
