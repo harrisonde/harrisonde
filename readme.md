@@ -46,7 +46,8 @@
 
 ### Lately, I've been working on:
 
-<p>
-    ![Statistics](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
-    ![Language](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
-</p>
+
+![Statistics](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
+
+![Language](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
+
