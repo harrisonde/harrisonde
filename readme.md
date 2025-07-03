@@ -47,8 +47,9 @@
 ## :hammer: I'm working on:
 - Currently building:
 ```yaml
-- A Redis dashboard for Adele's queue using React and Go.
-- Adele, a web application framework written in Go that provides a MVC architectural pattern for building web applications.
+- My own framework: Adele. It is a web application framework written in Go that provides a MVC architectural pattern for building web applications.
+- A dashboard for Adele's queue system: using Go, Redis, and React.
+
 ```
 - Soon I'll be building:
     - A typeahead with React
