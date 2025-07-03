@@ -52,14 +52,14 @@
 
 ```
 - Soon I'll be building:
-    - A typeahead with React
+    - React component: typeahead & autocomplete
     - [XKCD Password Generator](https://github.com/harrisonde/xkcd-password-generator) in Go
 
 ## :fire: My latest Github metrics:
 ![Language](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/languages.svg) ![Statistics](https://raw.githubusercontent.com/harrisonde/github-stats/master/generated/overview.svg)
 
-## :computer: My open source commitment:
-Supporting our open source software community through code contributes is incredibly important. Please checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tangible impact:
+## :computer: Open Source:
+Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tangible impact:
 
 - Me
     - [Linux Foundation Cloud Events PHP SDK](https://github.com/cloudevents/sdk-php)
