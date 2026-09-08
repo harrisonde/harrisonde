@@ -51,12 +51,24 @@
 </p>
 
 ## :hammer: I'm working on:
-- Currently building
-```yaml
-- My own framework: Adele. It is a web application framework written in Go that provides a MVC architectural pattern for building web applications.
-- A dashboard for Adele's queue system: using Go, Redis, and React.
 
-```
+<img src="https://github.com/user-attachments/assets/2347ad25-9a6e-4d5f-b55b-81ee062874a2" width="400" alt="Adele Logo" />
+
+### Adele — the batteries-included Go web framework
+
+Go gives you a great standard library and no opinions. Every new project pays the same tax: wire the router, the sessions, the migrations, the mailer, the asset pipeline. Adele pays that tax once so you don't have to. Install it, and start writing the part of the application that is actually yours.
+
+| Project | What it does |
+|---|---|
+| [**adele-framework**](https://github.com/Cidekar/adele-framework) | The framework core. MVC structure, routing, sessions, cache, database and migrations, mailer, logging, URL signing, and Vite-powered assets — all wired together out of the box. |
+| [**adele**](https://github.com/Cidekar/adele) | The starter application. Clone it and you have handlers, models, middleware, and web + API routes already laid out, ready to build on. |
+| [**adele-oauth2**](https://github.com/Cidekar/adele-oauth2) | A drop-in authorization server. RFC 6749, 6750, and 7636 compliant, with PKCE, client credentials, bearer-token middleware, and scope-based access control. One blank import registers every route. |
+| [**adele-queue**](https://github.com/Cidekar/adele-queue) | Background jobs that survive a restart. In-memory for local work, Redis-backed for horizontal scale, with worker pools, retry and backoff, failure tracking, and automatic recovery of jobs orphaned by crashed workers. |
+
+First-party packages, one convention, Apache 2.0 licensed. Contributions and issues are welcome.
+
+- Also building
+    - A dashboard for Adele's queue system: Go, Redis, and React.
 - Soon I'll be building
     - React component: typeahead & autocomplete
     - [XKCD Password Generator](https://github.com/harrisonde/xkcd-password-generator) in Go
@@ -70,6 +82,10 @@ Checkout my personal and [Cidekar](https://github.com/Cidekar) projects for tang
 - Personal
     - [Linux Foundation Cloud Events PHP SDK](https://github.com/cloudevents/sdk-php)
 - Cidekar
+    - [Adele](https://github.com/Cidekar/adele-framework) — Go web application framework
+    - [Adele Starter Application](https://github.com/Cidekar/adele)
+    - [Adele OAuth2](https://github.com/Cidekar/adele-oauth2)
+    - [Adele Queue](https://github.com/Cidekar/adele-queue)
     - [Browser Email Share](https://github.com/Cidekar/browser-email-share)
     - [Laravel Simple Feature Flags](https://github.com/Cidekar/laravel-simple-feature-flags)
     - [Laravel Tenant Magic](https://github.com/Cidekar/laravel-tenantmagic)
